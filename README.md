@@ -6,12 +6,14 @@ This project was a simple test to see if I could apply some of the knowledge I h
 
 The code is as follows:
 
-
 import simplegui
+
 import random
+
 global xRan 
 
 width = 600
+
 height = 600
 
 r = 50
