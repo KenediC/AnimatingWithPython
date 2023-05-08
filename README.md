@@ -5,9 +5,10 @@ This project was a simple test to see if I could apply some of the knowledge I h
   This project was useful because it taught me the fundamentals of animating within a coding environment, which was something I was (and still am) inexperienced with. But this animation helped me to see that it is not only possible, but also fairly doable for someone like me who is new to programming. I was able to combine my love of art with something I wanted to learn how to do, which helped me to increase my interest in improving my coding abilities.
 
 The code is as follows:
+
+
 import simplegui
 import random
-
 global xRan 
 
 width = 600
